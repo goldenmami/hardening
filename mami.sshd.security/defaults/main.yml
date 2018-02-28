@@ -1,2 +1,6 @@
 ---
 # defaults file for mami.sshd.security
+
+sshFileDir:
+sshFilesshd: 'sshd_config.j2'
+
